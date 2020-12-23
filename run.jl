@@ -1,4 +1,4 @@
-using JuliaApplications
+using ConventionalApp
 
 proj = Project(@__DIR__)
 setup_env(proj)
